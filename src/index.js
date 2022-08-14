@@ -8,6 +8,7 @@ const benchmarker = (testFunction, times = 1000000) => {
   let i = 0;
   while (i < times) {
     i++;
+
     testFunction();
   }
 
