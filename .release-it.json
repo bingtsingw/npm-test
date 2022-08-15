@@ -1,6 +1,6 @@
 {
   "git": {
-    "commitMessage": "chore(tag): release v${version}"
+    "commitMessage": "chore(release): v${version}"
   },
   "plugins": {
     "@release-it/conventional-changelog": {

@@ -5,6 +5,7 @@ specifiers:
   '@commitlint/config-conventional': ^17.0.3
   '@release-it/conventional-changelog': ^5.0.0
   commitizen: ^4.2.5
+  cz-conventional-changelog: ^3.3.0
   prettier: ^2.7.1
   prettier-plugin-organize-imports: ^3.0.1
   prettier-plugin-packagejson: ^2.2.18
@@ -18,6 +19,7 @@ devDependencies:
   '@commitlint/config-conventional': 17.0.3
   '@release-it/conventional-changelog': 5.0.0_release-it@15.3.0
   commitizen: 4.2.5
+  cz-conventional-changelog: 3.3.0
   prettier: 2.7.1
   prettier-plugin-organize-imports: 3.0.1_gd3y7r3s3evy6b2vthd7dmacga
   prettier-plugin-packagejson: 2.2.18_prettier@2.7.1
