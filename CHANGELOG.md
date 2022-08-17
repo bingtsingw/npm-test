@@ -1,5 +1,13 @@
 
 
+# [1.4.0](https://github.com/bingtsingw/npm-test/compare/1.3.4...1.4.0) (2022-08-17)
+
+
+### Features
+
+* test feat 1 ([c676058](https://github.com/bingtsingw/npm-test/commit/c6760589210c5127555bd3eb2a83491d3bf2f45a))
+* test feat 2 ([4f02f90](https://github.com/bingtsingw/npm-test/commit/4f02f90b85e3b780791407731506abe2227e3b4f))
+
 ## [1.3.4](https://github.com/bingtsingw/npm-test/compare/1.3.3...1.3.4) (2022-08-17)
 
 ## [1.3.3](https://github.com/bingtsingw/npm-test/compare/1.3.2...1.3.3) (2022-08-15)
