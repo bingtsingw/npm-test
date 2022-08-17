@@ -1,5 +1,10 @@
 
 
+## [1.5.0](https://github.com/bingtsingw/npm-test/compare/1.4.3...1.5.0) (2022-08-17)
+
+
+* test ([ce8fff9](https://github.com/bingtsingw/npm-test/commit/ce8fff96367849f97c01c498591d643820e6b49a))
+
 ## [1.4.3](https://github.com/bingtsingw/npm-test/compare/1.4.2...1.4.3) (2022-08-17)
 
 
