@@ -1,5 +1,12 @@
 
 
+## [1.4.1](https://github.com/bingtsingw/npm-test/compare/1.4.0...1.4.1) (2022-08-17)
+
+
+### Bug Fixes
+
+* remove github notes ([950f8b9](https://github.com/bingtsingw/npm-test/commit/950f8b99cdbcf0a44e53c60e5fda505cc643f6fa))
+
 # [1.4.0](https://github.com/bingtsingw/npm-test/compare/1.3.4...1.4.0) (2022-08-17)
 
 
