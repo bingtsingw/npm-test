@@ -1,5 +1,12 @@
 
 
+## [1.5.3](https://github.com/bingtsingw/npm-test/compare/1.5.2...1.5.3) (2022-08-17)
+
+
+### Chores
+
+* add release-it hooks ([c15aa7f](https://github.com/bingtsingw/npm-test/commit/c15aa7f12c2d7b2c0b79fdc00cc446c8d4f33593))
+
 ## [1.5.2](https://github.com/bingtsingw/npm-test/compare/1.5.1...1.5.2) (2022-08-17)
 
 
