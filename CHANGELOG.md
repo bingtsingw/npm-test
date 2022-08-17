@@ -1,5 +1,12 @@
 
 
+## [1.5.2](https://github.com/bingtsingw/npm-test/compare/1.5.1...1.5.2) (2022-08-17)
+
+
+### Chores
+
+* add chore type ([1477e36](https://github.com/bingtsingw/npm-test/commit/1477e365d288014ade41725ed512ba17498d6630))
+
 ## [1.5.1](https://github.com/bingtsingw/npm-test/compare/1.5.0...1.5.1) (2022-08-17)
 
 ## [1.5.0](https://github.com/bingtsingw/npm-test/compare/1.4.3...1.5.0) (2022-08-17)
