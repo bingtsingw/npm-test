@@ -1,5 +1,7 @@
 
 
+## [1.5.1](https://github.com/bingtsingw/npm-test/compare/1.5.0...1.5.1) (2022-08-17)
+
 ## [1.5.0](https://github.com/bingtsingw/npm-test/compare/1.4.3...1.5.0) (2022-08-17)
 
 
