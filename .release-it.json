@@ -14,11 +14,11 @@
         "types": [
           {
             "type": "feat",
-            "section": "✨ Features | 新功能"
+            "hidden": false
           },
           {
             "type": "fix",
-            "section": "🐛 Bug Fixes | Bug 修复"
+            "section": "🐛 Bug Fixes"
           },
           {
             "type": "docs",
