@@ -49,6 +49,10 @@
             "section": "Continuous Integration"
           },
           {
+            "type": "chore",
+            "section": "Chores"
+          },
+          {
             "type": "revert",
             "section": "⏪ Reverts | 回退"
           }
