@@ -4,8 +4,7 @@
   },
   "github": {
     "release": true,
-    "releaseName": "v${version}",
-    "releaseNotes": "generate-release-notes.sh --from=${latestTag} --to=${tagName}"
+    "releaseName": "v${version}"
   },
   "plugins": {
     "@release-it/conventional-changelog": {
