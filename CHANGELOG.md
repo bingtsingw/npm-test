@@ -1,5 +1,12 @@
 
 
+## [1.4.3](https://github.com/bingtsingw/npm-test/compare/1.4.2...1.4.3) (2022-08-17)
+
+
+### 📦 Chores | 其他更新
+
+* update release config ([c2121fc](https://github.com/bingtsingw/npm-test/commit/c2121fc12690b815d1ba0056497bb5366ce4199d))
+
 ## [1.4.2](https://github.com/bingtsingw/npm-test/compare/1.4.1...1.4.2) (2022-08-17)
 
 ## [1.4.1](https://github.com/bingtsingw/npm-test/compare/1.4.0...1.4.1) (2022-08-17)
